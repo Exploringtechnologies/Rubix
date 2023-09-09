@@ -1,0 +1,27 @@
+{
+  "name": "bsehovac.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {"three": "^0.149.0"},
+  "devDependencies": {
+    "rollup-plugin-babel-minify": "^5.0.0",
+    "vite": "^4.1.0"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bsehovac/bsehovac.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsehovac/bsehovac.github.io/issues"
+  },
+  "homepage": "https://rubix.itsamanahuja.com"
+
+}
